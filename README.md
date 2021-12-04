@@ -2,7 +2,7 @@
 
 Foram utilizados:   
 
-* Spring - Data JPA, WEB e Validation;
+* Spring - Data JPA, WEB, Validation e Cache;
 * Lombok;
 * Banco de dados: MariaDB.   
 
